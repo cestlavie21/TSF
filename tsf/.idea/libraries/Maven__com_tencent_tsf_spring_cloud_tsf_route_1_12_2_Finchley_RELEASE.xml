@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.tencent.tsf:spring-cloud-tsf-route:1.12.2-Finchley-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/tencent/tsf/spring-cloud-tsf-route/1.12.2-Finchley-RELEASE/spring-cloud-tsf-route-1.12.2-Finchley-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/tencent/tsf/spring-cloud-tsf-route/1.12.2-Finchley-RELEASE/spring-cloud-tsf-route-1.12.2-Finchley-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/tencent/tsf/spring-cloud-tsf-route/1.12.2-Finchley-RELEASE/spring-cloud-tsf-route-1.12.2-Finchley-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

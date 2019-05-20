@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer-demo/consumer-demo.iml" filepath="$PROJECT_DIR$/consumer-demo/consumer-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsf-account/tsf-account.iml" filepath="$PROJECT_DIR$/tsf-account/tsf-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsf-book/tsf-book.iml" filepath="$PROJECT_DIR$/tsf-book/tsf-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsf-consume/tsf-consume.iml" filepath="$PROJECT_DIR$/tsf-consume/tsf-consume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsf-credit/tsf-credit.iml" filepath="$PROJECT_DIR$/tsf-credit/tsf-credit.iml" />
       <module fileurl="file://$PROJECT_DIR$/tsf-demo.iml" filepath="$PROJECT_DIR$/tsf-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsf-order/tsf-order.iml" filepath="$PROJECT_DIR$/tsf-order/tsf-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsf-product/tsf-product.iml" filepath="$PROJECT_DIR$/tsf-product/tsf-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsf-repertory/tsf-repertory.iml" filepath="$PROJECT_DIR$/tsf-repertory/tsf-repertory.iml" />
     </modules>
   </component>
 </project>

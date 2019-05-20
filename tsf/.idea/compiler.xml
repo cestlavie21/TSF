@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="tsf-book" />
+        <module name="tsf-consume" />
+        <module name="tsf-account" />
+        <module name="tsf-product" />
         <module name="tsf-order" />
         <module name="tsf-repertory" />
         <module name="consumer-demo" />
-        <module name="tsf-product" />
+        <module name="tsf-credit" />
+        <module name="tsf-book" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
